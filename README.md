@@ -1,5 +1,3 @@
-# ProgAssignment4
-
 # ECE 2112: Experiment 4 - Data Wrangling and Data Visualization
 
 ## Overview
