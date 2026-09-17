@@ -1,4 +1,4 @@
-# ECE 2112: Experiment 4 - Data Wrangling and Data Visualization
+Experiment 4 - Data Wrangling and Data Visualization
 
 ## Overview
 This project contains the implementation for **Experiment 4: Data Wrangling and Data Visualization** under the ECE 2112 (Advanced Computer Programming and Algorithms) course at the University of Santo Tomas. 
